@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "231136766084",
+    "firebase_url": "https://e-election-e4023.firebaseio.com",
+    "project_id": "e-election-e4023",
+    "storage_bucket": "e-election-e4023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231136766084:android:0ae88443eee7cdb146bad1",
+        "android_client_info": {
+          "package_name": "com.saleh.e_election"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231136766084-rrbfavliudvuttt33pikna6ocftn26i2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLC03y0dkTR4sxfLZCWWhBLF7EA4mCZHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231136766084-rrbfavliudvuttt33pikna6ocftn26i2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,48 @@
+name: eelection
+description: A new E-ELECTION project.
+
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+
+  cupertino_icons: ^1.0.3
+  animated_text_kit: ^4.2.1
+  angles: ^2.1.0
+  flare_flutter: ^3.0.0
+  firebase_core: "0.7.0"
+  firebase_auth: "^0.20.1"
+  cloud_firestore: "^0.16.0+1"
+  firebase_storage: "^7.0.0"
+  firebase_database: "^6.0.0"
+  image_picker: ^0.6.6+1
+  modal_progress_hud: ^0.1.3
+  flutter_countdown_timer: ^4.1.0
+  flutter_barcode_scanner: any
+  provider: ^5.0.0
+  esys_flutter_share: ^1.0.2
+  http: ^0.12.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+
+
+  uses-material-design: true
+
+  assets:
+    - images/
+    - assets/rive/
